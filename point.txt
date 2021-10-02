@@ -1,0 +1,6 @@
+- add schema for comment
+- add schema for tags
+- relationships
+- api to add a comment
+- api to get comments
+-  api to remove comments
